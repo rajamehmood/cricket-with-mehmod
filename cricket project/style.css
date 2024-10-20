@@ -1,0 +1,21 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+}
+body{
+  text-align: center;
+}
+ .btn{
+  width:100px;
+  width:100px;
+  border: none;
+  margin:8px;
+  background-color: lightgreen;
+  /* border-radius:50px; */
+  clip-path: circle();
+  cursor: pointer;
+} 
+.choice-img{
+  height:75px;
+}
